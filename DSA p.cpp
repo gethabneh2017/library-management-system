@@ -282,7 +282,7 @@ int main() {
                 string title;
                 cout << "Enter Title to Search: ";
 
-Tesfaye🌱SEED, [3/30/2025 3:12 AM]
+
 cin.ignore();
                 getline(cin, title);
                 lib.searchBook(title);
